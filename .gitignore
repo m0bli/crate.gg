@@ -42,3 +42,19 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+
+# Angular build artefacts
+/e2e/test-output/
+/.ng/
+/.angular-cli.json
+
+# Environment files
+/.env
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
